@@ -1,6 +1,8 @@
 #Luna Compressor
 ---
 ###C++ learning project
+
+
 This mess of a creation is my barely functional image compressor.
 Created to learn and practice C++.
 
@@ -15,6 +17,8 @@ obviously for my first cpp project I didnt think I was creating a state of the a
 I essentially impelemented a subtly unqiue color quantization algorithm.
 
 ##Theory
+
+
 Choose 256 colors.
 Then map all of the real colors from the original image to the nearest color from the palette.
 
